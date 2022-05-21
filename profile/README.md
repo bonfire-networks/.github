@@ -15,7 +15,7 @@ Empower your community with tools to perform social, economic and political acti
 
 ## 📖 Documentation
 * [Website](https://bonfirenetworks.org) 
-* [Milestones & issues]([https://github.com/bonfire-networks/bonfire-app/issues/new/choose](https://github.com/bonfire-networks/bonfire-app/milestones?direction=asc&sort=due_date&state=open))
+* [Milestones & issues](https://github.com/bonfire-networks/bonfire-app/issues/new/choose](https://github.com/bonfire-networks/bonfire-app/milestones?direction=asc&sort=due_date&state=open)
 * [Open an issue](https://github.com/bonfire-networks/bonfire-app/issues/new/choose)
 * [Set up an instance](docs/DEPLOY.md) - for testing and evaluation only!
 * [Hacking on Bonfire](docs/HACKING.md) 
