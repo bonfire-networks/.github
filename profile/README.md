@@ -17,8 +17,8 @@ Empower your community with tools to perform social, economic and political acti
 * [Website](https://bonfirenetworks.org) 
 * [Milestones & issues](https://github.com/bonfire-networks/bonfire-app/milestones?direction=asc&sort=due_date&state=open)
 * [Open an issue](https://github.com/bonfire-networks/bonfire-app/issues/new/choose)
-* [Set up an instance](docs/DEPLOY.md) - for testing and evaluation only!
-* [Hacking on Bonfire](docs/HACKING.md) 
+* [Set up an instance](https://github.com/bonfire-networks/bonfire-app/blob/main/docs/DEPLOY.md) - for testing and evaluation only!
+* [Hacking on Bonfire](https://github.com/bonfire-networks/bonfire-app/blob/main/docs/HACKING.md)
 * [Code documentation](https://doc.bonfirenetworks.org/api-reference.html#content) 
 * [Community chat](https://matrix.to/#/%23bonfire-networks:matrix.org) 
 
